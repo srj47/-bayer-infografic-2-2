@@ -1154,11 +1154,24 @@ var utility = {
 
                     /*--------------------------------*/
 
-                    if(index == 14) {    
-                        $('.hhtest1').addClass('bounce-in-right');
-                        $('.hhtest1').delay(6000).fadeOut();
-                        $('.whdi').delay(6000).fadeIn();
-                    }
+                    // if(index == 14) {    
+                    //     $('.hhtest1').addClass('bounce-in-right');
+                    //     $('.hhtest1').delay(6000).fadeOut();
+                    //     $('.whdi').delay(6000).fadeIn();
+                    // }
+                    if (index == 14) {
+                        utility.section13_timeOut = setTimeout(function () {
+                          $(".hhtest1").addClass("bounce-in-right");
+                          $(".s11_d1").delay(2000).addClass("bounce-in-right");
+                          $(".s11_d2").delay(3000).addClass("bounce-in-right");
+                          $(".s11_d3").delay(4000).addClass("bounce-in-right");
+            
+                          $(".hhtest1").delay(6000).fadeOut();
+                          $(".whdi").delay(8000).fadeIn();
+                        }, 0);
+                      } else {
+                        clearTimeout(utility.section12_timeOut);
+                      }
 
                     /*----------------------------------*/
 
