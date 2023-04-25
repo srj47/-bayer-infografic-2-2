@@ -27242,7 +27242,7 @@ video {
   .section_break .clickContent2:after {
     position: absolute;
     right: 430px;
-    top: 210px;
+    top: 240px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
     width: 105px;
@@ -27251,7 +27251,7 @@ video {
   .section_break .clickContent3:after {
     position: absolute;
     right: 430px;
-    top: 390px;
+    top: 425px;
     content: "";
     background: url(../images/section_3/Line3.png) no-repeat left top;
     width: 200px;
