@@ -27245,7 +27245,7 @@ video {
     top: 210px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
-    width: 125px;
+    width: 105px;
     height: 20px;
   }
   .section_break .clickContent3:after {
@@ -27259,11 +27259,11 @@ video {
   }
   .section_break .clickContent4:after {
     position: absolute;
-    left: 430px;
-    top: 370px;
+    left: 410px;
+    top: 300px;
     content: "";
     background: url(../images/section_3/Line6.png) no-repeat right top;
-    width: 160px;
+    width: 180px;
     height: 20px;
   }
   .section_break .clickContent5:after {
