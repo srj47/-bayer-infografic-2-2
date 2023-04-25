@@ -27269,10 +27269,10 @@ video {
   .section_break .clickContent5:after {
     position: absolute;
     left: 430px;
-    top: 290px;
+    top: 260px;
     content: "";
     background: url(../images/section_3/Line4.png) no-repeat right top;
-    width: 110px;
+    width: 120px;
     height: 20px;
   }
   .section_break .clickContent6:after {
