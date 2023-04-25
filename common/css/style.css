@@ -27194,11 +27194,11 @@ video {
     transform-origin: right top;
   }
 
-  /* .section_break .clickContentWrap #content_1 {
+  .section_break .clickContentWrap #content_1 {
     right: 120px;
     top: 250px;
     font-size: 1em;
-  } */
+  }
 
   .section_break .clickContentWrap#content_2 {
     right: 120px;
