@@ -4730,7 +4730,7 @@ video {
 
 .section_break .ContentWrap_left {
   position: absolute;
-  left: 70px;
+  left: 100px;
 }
 .section_break .clickContent {
   display: none;
@@ -27260,7 +27260,7 @@ video {
   .section_break .clickContent4:after {
     position: absolute;
     left: 410px;
-    top: 300px;
+    top: 330px;
     content: "";
     background: url(../images/section_3/Line6.png) no-repeat right top;
     width: 180px;
