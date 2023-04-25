@@ -495,8 +495,13 @@
             $('.menuIconWrap').removeAttr("id");
             var getCNo = $(this).index();
             getCNo += 1;
-            $('.menuIconWrap').attr("id", "enableSVG" + getCNo);
-            console.log(getCNo);
+            // $('.menuIconWrap').attr("id", "enableSVG" + getCNo);
+            $('.menuIconWrap').attr({
+                'data-value': 'enableSVG' + getCNo,
+                'data-name': 'id'
+            });
+
+            console.log("getCNo :"+getCNo);
             if (getCNo == 1) {
                 getCNo = 4;
             }
