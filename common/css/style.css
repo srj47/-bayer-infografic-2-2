@@ -4402,13 +4402,13 @@ video {
 
 .section_break .step1 .content {
   position: absolute;
-  left: 20%;
-  color: #fff;
-  /*font-size: 0.88em;*/
-  z-index: 3;
-  width: 110px;
-  line-height: 20px;
-  top: 45%;
+    left: 28%;
+    color: #fff;
+    /* font-size: 0.88em; */
+    z-index: 3;
+    width: 120px;
+    line-height: 20px;
+    top: 45%;
 }
 
 .section_break .step1 .number {
@@ -4454,13 +4454,13 @@ video {
 
 .section_break .step3 .content {
   position: absolute;
-  left: 17%;
-  color: #fff;
-  /* font-size: 0.88em; */
-  z-index: 3;
-  width: 95px;
-  top: 44%;
-  line-height: 20px;
+    left: 12%;
+    color: #fff;
+    /* font-size: 0.88em; */
+    z-index: 3;
+    width: 95px;
+    top: 44%;
+    line-height: 20px;
 }
 
 .section_break .step3 .number {
@@ -4744,7 +4744,7 @@ video {
   width: 145px;
   height: 20px;
 }
-.section_break .clickContent2:after {
+/* .section_break .clickContent2:after {
   position: absolute;
   right: 300px;
   top: 115px;
@@ -4752,7 +4752,17 @@ video {
   background: url(../images/section_3/Line2.png) no-repeat left top;
   width: 85px;
   height: 20px;
+} */
+.section_break .clickContent2:after {
+  position: absolute;
+  right: 430px;
+  top: 210px;
+  content: "";
+  background: url(../images/section_3/Line1.png) no-repeat left top;
+  width: 105px;
+  height: 20px;
 }
+
 .section_break .clickContent3:after {
   position: absolute;
   right: 300px;
@@ -27241,10 +27251,10 @@ video {
   .section_break .clickContent3:after {
     position: absolute;
     right: 430px;
-    top: 360px;
+    top: 390px;
     content: "";
     background: url(../images/section_3/Line3.png) no-repeat left top;
-    width: 170px;
+    width: 200px;
     height: 20px;
   }
   .section_break .clickContent4:after {
