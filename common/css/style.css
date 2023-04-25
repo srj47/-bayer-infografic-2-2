@@ -27187,18 +27187,18 @@ video {
     width: 430px;
     height: 500px;
     padding: 30px;
-    right: 90px;
+    right: 120px;
     top: 23%;
     z-index: 5;
     transform: scale(1);
     transform-origin: right top;
   }
 
-  .section_break .clickContentWrap #content_1 {
+  /* .section_break .clickContentWrap #content_1 {
     right: 120px;
     top: 250px;
     font-size: 1em;
-  }
+  } */
 
   .section_break .clickContentWrap#content_2 {
     right: 120px;
@@ -27233,10 +27233,10 @@ video {
   .section_break .clickContent1:after {
     position: absolute;
     right: 430px;
-    top: 80px;
+    top: 110px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
-    width: 177px;
+    width: 180px;
     height: 20px;
   }
   .section_break .clickContent2:after {
@@ -27468,7 +27468,7 @@ video {
     padding: 47px 35px 30px 20px;
     font-size: 1.1em;
   }
-  .section_break.section_39 .clickContentWrap #content_1 {
+  .section_break .section_39 .clickContentWrap #content_1 {
     top: 250px;
     left: 100px;
     font-size: 1em;
