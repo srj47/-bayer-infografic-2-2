@@ -27011,7 +27011,7 @@ video {
     transform-origin: right top;
   }
 
-  .section_3 .clickContentWrap#content_1 {
+  .section_3 .clickContentWrap #content_1 {
     right: 120px;
     top: 250px;
     font-size: 1em;
@@ -27149,7 +27149,7 @@ video {
   .section_break .show_afterclick {
     bottom: 11% !important;
   }
-  /*  .section_break .clickContentWrap#content_1 {
+  /*  .section_break .clickContentWrap #content_1 {
        right: 315px;
        top: 380px;
    }
@@ -27194,7 +27194,7 @@ video {
     transform-origin: right top;
   }
 
-  .section_break .clickContentWrap#content_1 {
+  .section_break .clickContentWrap #content_1 {
     right: 120px;
     top: 250px;
     font-size: 1em;
@@ -27468,7 +27468,7 @@ video {
     padding: 47px 35px 30px 20px;
     font-size: 1.1em;
   }
-  .section_break.section_39 .clickContentWrap#content_1 {
+  .section_break.section_39 .clickContentWrap #content_1 {
     top: 250px;
     left: 100px;
     font-size: 1em;
