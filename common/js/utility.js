@@ -1087,7 +1087,7 @@ var utility = {
 
                     /*----------------------------------------------*/
                     if(index == 6) {
-                        $(".hhtest").addClass("slideDown");
+                        $(".hhtest").addClass("slideUp");
                     }else{
                         clearTimeout(utility.section13a_timeOut);                       
                     }
