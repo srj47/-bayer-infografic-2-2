@@ -354,11 +354,12 @@ ol {
 }
 .bullet_ul li {
   display: block;
-  position: relative;
-  color: #3c3c3c;
-  margin-bottom: 10px;
-  padding-left: 20px;
-  background: url(../images/global/bullet1.png) no-repeat 0px 9px;
+    position: relative;
+    color: #3c3c3c;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    background: url(../images/global/bullet1.png) no-repeat 0px 9px;
+    font-size: 1.4em;
 }
 .bullet_ul ul {
   position: relative;
@@ -4803,14 +4804,17 @@ video {
 .section_break .head {
   position: relative;
     width: 100%;
-    font-size: 1.3em;
+    font-size: 1.5em;
+    line-height: 1.5em;
     text-transform: uppercase;
     border-bottom: 2px solid #0091df;
     padding-bottom: 15px;
     margin-bottom: 20px;
 }
 .section_break .clickContent .mid p {
-  margin-bottom: 1em;
+  margin-bottom: 1.3em;
+  font-size: 1.4em;
+  line-height: 1.5em;
 }
 
 .section_break .closebtn {
