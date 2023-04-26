@@ -1143,7 +1143,7 @@ var utility = {
                     } 
 
                     if(index == 12) {    
-                     utility.section12_timeOut = setTimeout(function(){                   
+                     utility.section11_timeOut = setTimeout(function(){                   
                         $(".section_12 .step1").addClass("active");
                         $(".section_12 .clickContentWrap").addClass("active"); 
                         $(".section_12 .clickContent1").addClass("active");
@@ -1160,7 +1160,7 @@ var utility = {
                     //     $('.whdi').delay(6000).fadeIn();
                     // }
                     if (index == 14) {
-                        utility.section13_timeOut = setTimeout(function () {
+                        utility.section13a_timeOut = setTimeout(function () {
                           $(".hhtest1").addClass("bounce-in-right");
                           $(".s11_d1").delay(2000).fadeIn(1000);
                           $(".s11_d2").delay(3000).fadeIn(1000);
@@ -1170,7 +1170,7 @@ var utility = {
                           $(".whdi").delay(8000).fadeIn();
                         }, 0);
                       } else {
-                        clearTimeout(utility.section12_timeOut);
+                        clearTimeout(utility.section13a_timeOut);
                       }
 
                     /*----------------------------------*/
