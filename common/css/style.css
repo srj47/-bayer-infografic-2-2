@@ -4802,12 +4802,12 @@ video {
 
 .section_break .head {
   position: relative;
-  width: 100%;
-  font-size: 1.3em;
-  text-transform: uppercase;
-  border-bottom: 2px solid #0091df;
-  padding-bottom: 15px;
-  margin-bottom: 20px;
+    width: 100%;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #0091df;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
 }
 .section_break .clickContent .mid p {
   margin-bottom: 1em;
@@ -27182,12 +27182,12 @@ video {
   .section_break .clickContentWrap {
     display: none;
     position: absolute;
-    background: rgba(16, 56, 79, 0.9);
+    background: rgba(16,56,79,0.9);
     color: #fff;
     width: 430px;
     height: 500px;
     padding: 30px;
-    right: 120px; 
+    right: 90px;
     top: 23%;
     z-index: 5;
     transform: scale(1);
