@@ -4668,7 +4668,7 @@ video {
   width: 300px;
   height: 340px;
   padding: 30px;
-  right: 90px;
+  right: 50px;
   top: 23%;
   z-index: 5;
   transform: scale(0.9);
@@ -27190,7 +27190,7 @@ video {
     width: 430px;
     height: 500px;
     padding: 30px;
-    right: 90px;
+    right: 50px;
     top: 23%;
     z-index: 5;
     transform: scale(1);
@@ -27236,7 +27236,7 @@ video {
   .section_break .clickContent1:after {
     position: absolute;
     right: 430px;
-    top: 110px;
+    top: 150px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
     width: 180px;
@@ -27245,19 +27245,19 @@ video {
   .section_break .clickContent2:after {
     position: absolute;
     right: 430px;
-    top: 240px;
+    top: 188px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
-    width: 105px;
+    width: 135px;
     height: 20px;
   }
   .section_break .clickContent3:after {
     position: absolute;
     right: 430px;
-    top: 425px;
+    top: 359px;
     content: "";
     background: url(../images/section_3/Line3.png) no-repeat left top;
-    width: 200px;
+    width: 191px;
     height: 20px;
   }
   .section_break .clickContent4:after {
