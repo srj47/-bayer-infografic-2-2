@@ -21873,13 +21873,12 @@ video {
     width: 150%;
   }
   .scale_up.scale_up_go {
-    top: 180px !important;
+    top: 100px !important;
     opacity: 1;
     transition: 0.5s;
-    bottom: 20px;
-    left: 230px;
-    right: 0px;
-    margin: auto;
+    scale: 1.1;
+    left: 500px;
+    /* margin-left: -50px;
   }
   .section_6 .middle_section2 {
     top: 0%;
@@ -28797,9 +28796,12 @@ video {
     cursor: pointer;
   }
   .scale_up.scale_up_go {
-    top: 180px !important;
+    top: 100px !important;
     opacity: 1;
     transition: 0.5s;
+    scale: 1.1;
+    left: 500px;
+    /* margin-left: -50px;
   }
   .section_42 .end_button span {
     background: url(../images/section_42/blue_arrow_up.png) no-repeat;
@@ -30256,13 +30258,12 @@ video {
     width: 150%;
   }
   .scale_up.scale_up_go {
-    top: auto !important;
+    top: 100px !important;
     opacity: 1;
     transition: 0.5s;
-    bottom: 20px;
-    left: 60px;
-    right: 0px;
-    margin: auto;
+    scale: 1.1;
+    left: 500px;
+    /* margin-left: -50px;
   }
   .section_3 .bottom_bg {
     height: 400px;
