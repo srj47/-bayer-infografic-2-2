@@ -1395,7 +1395,7 @@ var utility = {
                         clearTimeout(utility.section34_timeOut);
                     }
 
-                    if(index == 35) {    
+                    if(index == 37) {    
                      utility.section35_timeOut = setTimeout(function(){                   
                         $(".section_35 .step5").addClass("active");
                         $(".section_35 .clickContentWrap").addClass("active"); 
@@ -1415,7 +1415,7 @@ var utility = {
                          //$(".section_20 .midboxWrapInUpper").removeClass("active_on");
                         // },500);
                     }
-                    if(index == 37) {
+                    if(index == 39) {
                         utility.section37_timeOut = setTimeout(function(){
                             $(".section_37 .midboxWrap").addClass("moveRight");
                             // var showWrapIn = setTimeout(function(){
@@ -1456,7 +1456,7 @@ var utility = {
                         // },500);
                     } 
 
-                    if(index == 39) {    
+                    if(index == 41) {    
                      utility.section39_timeOut = setTimeout(function(){                   
                         $(".section_39 .step6").addClass("active");
                         $(".section_39 .clickContentWrap").addClass("active"); 
@@ -1484,11 +1484,7 @@ var utility = {
                        // },500);
                     }
 
-                    if(index == 41) {                         
-                          //$(".section_41 .bottom_strip").addClass("active_on");   
-                    }else{ 
-
-                    }
+                   
 
                     if(index == 42) {
                           //$(".section_42 .bottom_strip").addClass("active_on");   

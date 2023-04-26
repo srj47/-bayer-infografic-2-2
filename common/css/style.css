@@ -4731,7 +4731,7 @@ video {
 
 .section_break .ContentWrap_left {
   position: absolute;
-  left: 100px;
+  left: 113px;
 }
 .section_break .clickContent {
   display: none;
@@ -27262,11 +27262,11 @@ video {
   }
   .section_break .clickContent4:after {
     position: absolute;
-    left: 410px;
-    top: 330px;
+    left: 385px;
+    top: 289px;
     content: "";
     background: url(../images/section_3/Line6.png) no-repeat right top;
-    width: 180px;
+    width: 205px;
     height: 20px;
   }
   .section_break .clickContent5:after {
@@ -27280,8 +27280,8 @@ video {
   }
   .section_break .clickContent6:after {
     position: absolute;
-    left: 430px;
-    top: 100px;
+    left: 429px;
+    top: 69px;
     content: "";
     background: url(../images/section_3/Line6.png) no-repeat right top;
     width: 161px;
